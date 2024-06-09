@@ -8,17 +8,17 @@
 	>
 
 <channel>
-	<title>Galeri &#8211; websitepesantren</title>
+	<title>Galeri &#8211; Pesantren Intan Ilmu</title>
 	<atom:link href="https://mzainiabdillah.github.io/websitepesantren/galeri/feed/" rel="self" type="application/rss+xml" />
 	<link>https://mzainiabdillah.github.io/websitepesantren</link>
-	<description></description>
+	<description>Unggul Amanah Berakhlak Mulia</description>
 	<lastBuildDate>Sat, 09 Jul 2022 04:50:43 +0000</lastBuildDate>
 	<language>id</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
 	<item>
 		<title>New Galeri</title>
 		<link>https://mzainiabdillah.github.io/websitepesantren/galeri/new-galeri/</link>
