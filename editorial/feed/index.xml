@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Editorial &#8211; Pesantren Intan Ilmu</title>
+	<atom:link href="https://mzainiabdillah.github.io/websitepesantren/editorial/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mzainiabdillah.github.io/websitepesantren</link>
+	<description>Unggul Amanah Berakhlak Mulia</description>
+	<lastBuildDate>Sun, 09 Jun 2024 19:06:12 +0000</lastBuildDate>
+	<language>id</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
+	<item>
+		<title>Pelajaran Serta Keteladanan Dari Nabi Muhammad Shallallahu Alaihi Wasallam</title>
+		<link>https://mzainiabdillah.github.io/websitepesantren/editorial/editorial-oleh-kepsek/</link>
+		
+		<dc:creator><![CDATA[mzainiabdillah]]></dc:creator>
+		<pubDate>Mon, 10 Jul 2017 18:34:36 +0000</pubDate>
+				<guid isPermaLink="false">http://akademi.main-css.com/index.php/editorial/editorial-oleh-kepala-sekolah-2-copy-copy/</guid>
+
+					<description><![CDATA[Disini bisa di isi tentang tulisan dari pimpinan atau artikel atau doa atau nasihat dari Pimpinan]]></description>
+										<content:encoded><![CDATA[<p>Disini bisa di isi tentang tulisan dari pimpinan atau artikel atau doa atau nasihat dari Pimpinan</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Tugas Pimpinan Pesantren Intan Ilmu</title>
+		<link>https://mzainiabdillah.github.io/websitepesantren/editorial/editorial-oleh/</link>
+		
+		<dc:creator><![CDATA[mzainiabdillah]]></dc:creator>
+		<pubDate>Mon, 10 Jul 2017 18:34:19 +0000</pubDate>
+				<guid isPermaLink="false">http://akademi.main-css.com/index.php/editorial/editorial-oleh-kepala-sekolah-2-copy/</guid>
+
+					<description><![CDATA[Bisa di isi dengan artikel atau tulisan dari pimpinan]]></description>
+										<content:encoded><![CDATA[<p>Bisa di isi dengan artikel atau tulisan dari pimpinan</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Pesan Oleh Pimpinan Pesantren</title>
+		<link>https://mzainiabdillah.github.io/websitepesantren/editorial/editorial-oleh-kepala-sekolah-2/</link>
+		
+		<dc:creator><![CDATA[mzainiabdillah]]></dc:creator>
+		<pubDate>Mon, 10 Jul 2017 18:32:53 +0000</pubDate>
+				<guid isPermaLink="false">http://akademi.main-css.com/index.php/editorial/editorial-oleh-kepala-sekolah-copy/</guid>
+
+					<description><![CDATA[Bisa di isi untuk artikel atau doa nasihat dari pimpinan]]></description>
+										<content:encoded><![CDATA[
+<p>Bisa di isi untuk artikel atau doa nasihat dari pimpinan</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Membentuk Karakter Santri Di Pesantren</title>
+		<link>https://mzainiabdillah.github.io/websitepesantren/editorial/editorial-oleh-kepala-sekolah/</link>
+		
+		<dc:creator><![CDATA[mzainiabdillah]]></dc:creator>
+		<pubDate>Mon, 10 Jul 2017 17:32:29 +0000</pubDate>
+				<guid isPermaLink="false">http://akademi.main-css.com/?post_type=editorial&#038;p=6</guid>
+
+					<description><![CDATA[Di isi dengan artikel dari pimpinan]]></description>
+										<content:encoded><![CDATA[<p>Di isi dengan artikel dari pimpinan</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
